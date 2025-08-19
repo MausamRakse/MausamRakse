@@ -86,7 +86,7 @@
 - 🧑‍💻 [LeetCode](https://leetcode.com/u/mousamrakse_123/)  
 - 🏆 [CodeChef](https://www.codechef.com/users/mousamrakse)  
 - 💻 [GitHub](https://github.com/MausamRakse)  
-- 📂 **[Resume PDF](https://drive.google.com/file/d/1-cY08hJy0YjFlRcU3DcEHp3hrRKbSJEn/view?usp=sharing)**  
+- 📂 **[Resume PDF](https://drive.google.com/file/d/1GC4d6_rbwbZiLq4Apf2Byp-FLk_z0s9m/view?usp=sharing)**  
 
 ---
 
