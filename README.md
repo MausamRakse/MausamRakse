@@ -52,6 +52,7 @@
 ## 🚀 Projects
 | 🧩 Project | Tech Stack | Links |
 |------------|-----------|-------|
+| **Coursera_Lead_Generation-Multi_Agent_System** | Overpass API, Python, Selenium, Pandas, OpenPyXL, LLM | [Repo](https://github.com/MausamRakse/Coursera_Lead_Generation-Multi_Agent_System) |
 | **AI Automation Result Generator** | Python, Selenium, Ngrok, Streamlit | [Repo](https://github.com/MausamRakse/RGPV-RESULT-GENRATER-Automated-) |
 | **Gemini AI Project** | LangChain, Streamlit, Gemini API | [Repo](https://github.com/MausamRakse/gemini_ai_project) |
 | **Face Recognition System with GenAI** | Python, OpenCV, GANs, TensorFlow | [Repo](https://github.com/MausamRakse/face_rego) |
