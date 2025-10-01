@@ -58,6 +58,7 @@
 | **Face Recognition System with GenAI** | Python, OpenCV, GANs, TensorFlow | [Repo](https://github.com/MausamRakse/face_rego) |
 | **SEO Keyword Analyzer** | Gemini AI, Streamlit, FPDF | [Repo](https://github.com/MausamRakse/SEO-keyword-analysis-Gemini-AI-PDF-export) |
 | **RAG Chatbot for Natural Language Database** | LangChain, SQL, LLMs | [Repo](https://github.com/MausamRakse/RAG-Chatbot-for-Natural-Language-Database-Interaction) |
+| **Titanic_Survival_Prediction_Project-** | SVM , logistic regression ,tensorflow | [Repo](https://github.com/MausamRakse/Titanic_Survival_Prediction_Project-) |
 | **AI Blog Writer Agent** | Python, Crew-AI, FastAPI, Gemini | [Demo](https://drive.google.com/file/d/1FsjaT2Y3SwPlgIOnf-iREnGvq9IJjizV/view) |
 | **Image Scraper** | Python, BeautifulSoup, Requests | [Repo](https://github.com/MausamRakse/image-scraping) |
 
